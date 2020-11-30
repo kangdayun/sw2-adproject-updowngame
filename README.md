@@ -1,1 +1,2 @@
-# sw2-adproject-updowngame
+# Kookmin Univ. Commputer Science
+# 20185280 강다윤
